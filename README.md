@@ -11,6 +11,7 @@ Hi, I’m Nicolai 👋  <br>Also known online as **Nivobi**. I’m a developer b
 ![](https://github-readme-stats.vercel.app/api?username=nivobi&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nivobi&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivobi&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://your-vercel-url.vercel.app/api/card)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nivobi&icon=0&color=0)](https://visitcount.itsvg.in)
